@@ -1,0 +1,1 @@
+This is a niche case, my link to an AP keeps dropping and when it does it drops off the controller and gets stuck adopting, this program queires the controller api to see what state the AP is in and reboots it if in a stuck state. it performs this check once per hour.![image](https://github.com/user-attachments/assets/9b80431f-0462-44ac-96db-7b774cb8e934)
